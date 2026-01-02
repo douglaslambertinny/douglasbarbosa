@@ -11,7 +11,7 @@
   
 ### 🚀 About Me
 
-I'm a passionate **Full Stack Developer** with experience in building web applications, APIs, and automation tools. I love creating efficient solutions and contributing to open-source projects.
+I'm a passionate **Back-end Engineer** venturing into front-end development, hoping to one day become a whole steak – that's right, "steak" is a pun on "full stack" and "full steak." I love building robust APIs, efficient solutions, and contributing to open-source projects.
 
 </div>
 
@@ -52,10 +52,17 @@ I'm a passionate **Full Stack Developer** with experience in building web applic
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=douglaslambertinny&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=douglaslambertinny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=douglaslambertinny&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=douglaslambertinny&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=douglaslambertinny&show_icons=true" />
+</picture>
 </div>
 
 <div align="center">
@@ -81,30 +88,6 @@ I'm a passionate **Full Stack Developer** with experience in building web applic
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglaslambertinny&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/douglaslambertinny/agendfy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglaslambertinny&repo=agendfy&theme=tokyonight&hide_border=true" alt="Agendfy" />
-</a>
-
-<a href="https://github.com/douglaslambertinny/agendfy-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglaslambertinny&repo=agendfy-app&theme=tokyonight&hide_border=true" alt="Agendfy App" />
-</a>
-
-<a href="https://github.com/douglaslambertinny/domainfy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglaslambertinny&repo=domainfy&theme=tokyonight&hide_border=true" alt="Domainfy" />
-</a>
-
-<a href="https://github.com/douglaslambertinny/nextjs-dashboard-course">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglaslambertinny&repo=nextjs-dashboard-course&theme=tokyonight&hide_border=true" alt="Next.js Dashboard" />
-</a>
 
 </div>
 
