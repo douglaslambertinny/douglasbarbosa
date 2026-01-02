@@ -137,6 +137,7 @@ I'm a passionate **Full Stack Developer** with experience in building web applic
 
 ### 📊 Weekly Development Breakdown
 
+<!-- To enable this section, set up WakaTime GitHub Action: https://github.com/athul/waka-readme -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
