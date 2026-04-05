@@ -49,45 +49,11 @@ I'm a passionate **Back-end Engineer** venturing into front-end development, hop
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=douglaslambertinny&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=douglaslambertinny&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=douglaslambertinny&show_icons=true" />
-</picture>
-</div>
-
-<div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaslambertinny&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   
 <img src="https://github-profile-trophy.vercel.app/?username=douglaslambertinny&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=douglaslambertinny&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
